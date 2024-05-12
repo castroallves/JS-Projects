@@ -1,0 +1,29 @@
+table{
+    
+    background-color: #453b3e;
+}
+
+.title{
+font-family: Helvetica;
+         text-align:center;
+        color:white;
+}
+  
+input[type="button"]{
+        
+  background-color: black;
+  border: none;
+  color: white;
+  padding: 5px 10px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}}
+  
+input[type="text"]
+        {
+      font-family: Helvetica;
+         border: solid black 2px;
+         width:100%
+         }
